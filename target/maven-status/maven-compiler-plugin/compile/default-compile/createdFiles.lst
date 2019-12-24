@@ -1,0 +1,14 @@
+vehicle/define/AccidentEvent.class
+vehicle/BatchJob.class
+vehicle/BatchJob$5.class
+vehicle/StreamingJob$2.class
+vehicle/BatchJob$3.class
+vehicle/StreamingJob$MyWindowFunction.class
+vehicle/BatchJob$2.class
+vehicle/BatchJob$1.class
+vehicle/define/Event.class
+vehicle/define/AvgSpeedEvent.class
+vehicle/StreamingJob.class
+vehicle/BatchJob$4.class
+vehicle/define/SpeedingEvent.class
+vehicle/StreamingJob$1.class
